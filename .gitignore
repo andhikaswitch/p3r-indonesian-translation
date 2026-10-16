@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Pending files (game was open during translation)
+*_pending/
